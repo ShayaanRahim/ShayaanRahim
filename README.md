@@ -18,4 +18,3 @@ I focus on:
 - PostgreSQL, Supabase
 - ML/NLP (classification, extraction, evaluation)
 
-I learn by building, shipping, and iterating on real problems.
