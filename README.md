@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I’m Shayaan
 
-<!--
-**ShayaanRahim/ShayaanRahim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a Computer Science student at UT Dallas building real, data-driven software systems.
 
-Here are some ideas to get you started:
+I focus on:
+- Full-stack web applications
+- Machine learning & NLP
+- Data pipelines, APIs, and system design
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I’m working on
+- **ProjectMe** — job market analytics + skill gap analysis for CS students
+- **FundThesis** — simplified financial news & market insights for retail investors
+- ML-driven tools that turn messy data into useful decisions
+
+### Tech I use
+- Python, TypeScript, SQL
+- React / Next.js, FastAPI
+- PostgreSQL, Supabase
+- ML/NLP (classification, extraction, evaluation)
+
+I learn by building, shipping, and iterating on real problems.
