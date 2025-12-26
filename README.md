@@ -7,7 +7,7 @@ Areas of Focus:
 - Machine learning & NLP
 - Data pipelines, APIs, and system design
 
-### What I’m working on
+I'm currently working on:
 - **ProjectMe** - job market analytics and skill gap analysis for CS students
 - **FundThesis** — simplified financial news & market insights for retail investors
 - ML tools that turn data into actionable insights for users
