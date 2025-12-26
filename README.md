@@ -1,16 +1,16 @@
 # Hi, I’m Shayaan
 
-I’m a Computer Science student at UT Dallas building real, data-driven software systems.
+I’m a CS student at UT Dallas building data-driven software systems.
 
-I focus on:
-- Full-stack web applications
+Areas of Focus:
+- Full-stack web apps
 - Machine learning & NLP
 - Data pipelines, APIs, and system design
 
 ### What I’m working on
-- **ProjectMe** — job market analytics + skill gap analysis for CS students
+- **ProjectMe** - job market analytics and skill gap analysis for CS students
 - **FundThesis** — simplified financial news & market insights for retail investors
-- ML-driven tools that turn messy data into useful decisions
+- ML tools that turn data into actionable insights for users
 
 ### Tech I use
 - Python, TypeScript, SQL
