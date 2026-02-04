@@ -7,8 +7,8 @@ I like making full-stack web apps, projects in machine learning & NLP,  data pip
 My top projects are FundThesis, ProjectMe, and an AI insurance claim validation engine.
 
 The tech I use consists of: 
-- Python, TypeScript, SQL
-- React / Next.js, FastAPI
+- Python, SQL
+- React/Next.js, FastAPI
 - PostgreSQL, Supabase
 - ML/NLP (classification, extraction, evaluation)
 
