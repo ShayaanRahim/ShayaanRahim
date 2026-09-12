@@ -1,14 +1,18 @@
-# Hi, I’m Shayaan
+# Hi, I'm Shayaan
 
-I’m a CS student at UT Dallas building data-driven software systems.
+I'm a CS student at UT Dallas building data-driven software systems.
 
-I like making full-stack web apps, projects in machine learning & NLP,  data pipelines, and APIs.
+I'm currently an Undergraduate Edge AI Research Assistant at UTD, benchmarking LLM/VLM inference and energy consumption on edge hardware (Raspberry Pi 5, Android).
 
-My top projects are FundThesis, ProjectMe, and an AI insurance claim validation engine.
+I like building fintech/data-heavy systems, fault-tolerant backend infrastructure, and applied ML/NLP pipelines.
 
-The tech I use consists of: 
-- Python, SQL
-- React/Next.js, FastAPI
-- PostgreSQL, Supabase
-- ML/NLP (classification, extraction, evaluation)
+My top projects are a Concurrent Double-Entry Ledger Engine, an AI Insurance Claim Validation Engine, and FundThesis.
+
+**Tech I use:**
+- Languages: Python, SQL, C++
+- Backend/Infra: FastAPI, event-driven architecture, idempotency & concurrency patterns
+- Frontend: React, Next.js
+- Data: PostgreSQL, Supabase
+- ML/NLP: classification, extraction, evaluation
+- Edge/Systems: Ollama, on-device LLM/VLM benchmarking, energy profiling
 
